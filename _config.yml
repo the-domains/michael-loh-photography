@@ -1,0 +1,28 @@
+name: Michael Loh Photography
+favicon: null
+layout_spectrum: 0.1366896042600274
+typography_spectrum: 0.894137559691444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.55821258504875
+  lightness: 0.4623034982942045
+  saturation: 0.6819031219929457
+  rhythmicContrast: 0.48803878482431173
+purpose: []
